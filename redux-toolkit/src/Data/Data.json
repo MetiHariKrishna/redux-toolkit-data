@@ -1,0 +1,40 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"iPhone 9",
+            "src":"https://images.pexels.com/photos/3586249/pexels-photo-3586249.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "price":10999
+        },
+        {
+            "id":2,
+            "name":"iPhone X",
+            "src":"https://images.pexels.com/photos/4348791/pexels-photo-4348791.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "price":8999
+        },
+        {
+            "id":3,
+            "name":"Samsung Universe 9",
+            "src":"https://images.pexels.com/photos/226474/pexels-photo-226474.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "price":15999
+        },
+        {
+            "id":4,
+            "name":"OPPOF19",
+            "src":"https://images.pexels.com/photos/3091134/pexels-photo-3091134.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "price":20599
+        },
+        {
+            "id":5,
+            "name":"Huawei P30",
+            "src":"https://images.pexels.com/photos/8448176/pexels-photo-8448176.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "price":12599
+        },
+        {
+            "id":6,
+            "name":"Apple",
+            "src":"https://images.pexels.com/photos/7764/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
+            "price":17999
+        }
+    ]
+}
